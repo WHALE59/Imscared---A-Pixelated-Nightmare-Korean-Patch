@@ -16,7 +16,7 @@ Imscared - A Pixelated Nightmare 비공식 한글패치 입니다.
 
 ---
 
-### 한글패치 제작
+### 한글패치, 한글 이미지 제작
 `WHALE59`
 
 ---
